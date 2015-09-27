@@ -1,0 +1,12 @@
+body {
+    color: #803f32;
+    background-color: #b68cbe;
+    font-family: arial;
+    cursor: url(img.png);
+}
+p {
+    font-size: 0.8em;
+}
+h1 {
+    text-align: center;
+}
